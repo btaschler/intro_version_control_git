@@ -96,4 +96,10 @@ SSH keys come in pairs, a public key that is shared with services like GitHub, a
 
 ℹ️ The procedure described in the link above only needs to be done once per GitHub account and for each computer you will use to connect to GitHub.
 
+<br>
 
+### Using a text editor
+
+Any text editor of your choice will do. 
+
+If you are not sure and want to try out a popular one [download Sublime Text](https://www.sublimetext.com/).
