@@ -103,21 +103,3 @@ SSH keys come in pairs, a public key that is shared with services like GitHub, a
 Any text editor of your choice will do. 
 
 If you are not sure and want to try out a popular one [download Sublime Text](https://www.sublimetext.com/).
-
-<br>
-
-## Exercises
-
-
-
-
-
-<br>
-
-## Further Resources
-
-
-
-
-
-
