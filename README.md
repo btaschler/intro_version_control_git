@@ -8,7 +8,7 @@ Version control workshop at the [Oxford-Berlin Autumn School on Open and Respons
 
 All materials (including this guide) can be found in the corresponding [GitHub repository](https://github.com/btaschler/intro_version_control_git/tree/main).
 
-Many of the materials included in this workshop have been adapted from two related workshops ([course 1](https://github.com/MalikaIhle/Introduction-RStudio-Git-GitHub), [course 2](https://github.com/MalikaIhle/Collaborative-RStudio-GitHub)) by [Malika Ihle](https://github.com/MalikaIhle).
+Many of the materials included in this workshop have been adapted from two related workshops ([course 1](https://github.com/MalikaIhle/Introduction-RStudio-Git-GitHub), [course 2](https://github.com/MalikaIhle/Collaborative-RStudio-GitHub)) by [Malika Ihle](https://github.com/MalikaIhle) as well as various resources and online tutorials (incl. from [Software Carpentry](https://software-carpentry.org/), [datacamp](https://www.datacamp.com/) and [GitHub Docs](https://docs.github.com/en)).
 
 <br>
 
@@ -103,3 +103,21 @@ SSH keys come in pairs, a public key that is shared with services like GitHub, a
 Any text editor of your choice will do. 
 
 If you are not sure and want to try out a popular one [download Sublime Text](https://www.sublimetext.com/).
+
+<br>
+
+## Exercises
+
+
+
+
+
+<br>
+
+## Further Resources
+
+
+
+
+
+
